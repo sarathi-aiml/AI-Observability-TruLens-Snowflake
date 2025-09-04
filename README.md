@@ -81,8 +81,9 @@ pat = "XXXXXX"
 - **Scale**. Store and analyze large volumes of traces securely in Snowflake.
 - **Centralization**. Observe all LLM apps in one place.
 
-## Stremlit Dashboard
-Insert a screenshot here to show a quick visual overview.
+## Dashboard
+
+![Dashboard](Dashboard.png)
 
 ## Security note
 Store secrets in Streamlit secrets or a vault, not in source control. Rotate PATs and credentials on a regular schedule.
